@@ -21,9 +21,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemav009&show_icons=true&locale=en&layout=compact" alt="hemav009" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemav009&show_icons=true&locale=en" alt="hemav009" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemav009&" alt="hemav009" /></p>
-
+<h3> GSSoC Badge's </h3>
 <p><img align="center" src="gssoc" alt="hemav009" /></p>
 
 
