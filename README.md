@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hema Sree</h1>
 <h3 align="center">DSA Solver | Full Stack Developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemav009&label=Profile%20views&color=0e75b6&style=flat" alt="hemav009" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemav009" alt="hemav009" /></a> </p>
 
 - 🌱 I’m currently learning **DSA**
 
@@ -21,7 +23,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemav009&show_icons=true&locale=en&layout=compact" alt="hemav009" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemav009&show_icons=true&locale=en" alt="hemav009" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemav009&" alt="hemav009" /></p>
 <h3> GSSoC Badge's </h3>
 <p><img align="center" src="gssoc" alt="hemav009" /></p>
-
-
