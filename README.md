@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hema Sree</h1>
-<h3 align="center">DSA Solver | Full Stack Developer</h3>
+<h3 align="center">DSA Solver | Web Developer | Machine Learning </h3>
 
 - 🌱 I’m currently learning **DSA**
 
